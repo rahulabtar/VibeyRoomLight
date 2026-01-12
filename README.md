@@ -1,5 +1,18 @@
-# LEDRoom
-This is the code for a personal project my roomate Logan Schneider and I am undergoing for a led strip light in our common room.
+#VibeyRoomLight
+A catalog of my work with the WS2812B LED Strips
+
+## ▶️ **Click below to watch the demo!**
+
+<p align="center">
+  <a href="https://youtu.be/jh-RSyLiC5o?si=3RsFqkvIleHcTaWV">
+    <img src="https://img.youtube/jh-RSyLiC5o?si=3RsFqkvIleHcTaWV/hqdefault.jpg" width="600" alt="Watch on YouTube">
+  </a>
+</p>
+
+
+
+https://youtu.be/jh-RSyLiC5o?si=3RsFqkvIleHcTaWV
+
 
 QUICK VIDEO SHOWCASE:
 https://drive.google.com/file/d/1nCgGHZAg6cg-lvnDBANqvG6rShFJDbFf/view?usp=sharing
