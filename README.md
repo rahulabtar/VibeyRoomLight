@@ -3,7 +3,7 @@ A catalog of my work with the WS2812B LED Strips. Here I'll put any electrical, 
 
 ## 🟢 **WLED Dorm Light** (December 2024)
 Utilizing a SWPS @ 5V 15A, two WS2812B LED strips, and four power injections with proper fusing for safety. WLED utilized for animations. Very Bright!
-### ▶️ **Click below to watch the demo!**
+### ▶️ **Click the image below to watch the demo!**
 <p align="center">
   <a href="https://www.youtube.com/watch?v=jh-RSyLiC5o">
     <img src="https://img.youtube.com/vi/jh-RSyLiC5o/hqdefault.jpg" width="600" alt="Watch on YouTube">
@@ -16,7 +16,7 @@ Todo: Make wiring diagram and place here.
 
 ## 🟡 **Arduino / Raspberry Pi Dorm Light** (September 2023)
 Utilizes a Rasberry Pi 4b for custom made animations on a WS2812B LED strip. Communicates via Serial to an Arduino Uno controller board, with an LCD interface and buttons for animation selection. Powered via Pi's 5v rail.
-### ▶️ **Click below to watch the demo!**
+### ▶️ **Click the image below to watch the demo!**
 <p align="center">
   <a href="https://youtube.com/shorts/rE3yTOF5lLg">
     <img src="https://img.youtube.com/vi/rE3yTOF5lLg/hqdefault.jpg" width="400" alt="Watch the demo">
