@@ -1,7 +1,7 @@
 # 💡 VibeyRoomLight 
 A catalog of my work with the WS2812B LED Strips. Here I'll put any electrical, programming, or music reactive work I have going with this LED Strips. 
 
-## 🟢 **WLED Dorm Light ** (December 2024)
+## 🟢 **WLED Dorm Light** (December 2024)
 Utilizing a SWPS @ 5V 15A, two WS2812B LED strips, and four power injections with proper fusing for safety. WLED utilized for animations. Very Bright!
 ### ▶️ **Click below to watch the demo!**
 <p align="center">
