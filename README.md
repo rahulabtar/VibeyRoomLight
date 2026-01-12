@@ -4,14 +4,12 @@ A catalog of my work with the WS2812B LED Strips
 ## ▶️ **Click below to watch the demo!**
 
 <p align="center">
-  <a href="https://youtu.be/jh-RSyLiC5o?si=3RsFqkvIleHcTaWV">
-    <img src="https://img.youtu.be/jh-RSyLiC5o?si=3RsFqkvIleHcTaWV/hqdefault.jpg" width="600" alt="Watch on YouTube">
+  <a href="https://www.youtube.com/watch?v=jh-RSyLiC5o">
+    <img src="https://img.youtube.com/watch?v=jh-RSyLiC5o/hqdefault.jpg" width="600" alt="Watch on YouTube">
   </a>
 </p>
 
-
-
-https://youtu.be/jh-RSyLiC5o?si=3RsFqkvIleHcTaWV
+https://www.youtube.com/watch?v=jh-RSyLiC5o
 
 
 QUICK VIDEO SHOWCASE:
