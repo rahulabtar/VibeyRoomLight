@@ -1,7 +1,7 @@
 # 💡 VibeyRoomLight 
 A catalog of my work with the WS2812B LED Strips. Here I'll put any electrical, programming, or music reactive work I have going with this LED Strips. 
 
-## 🟢 **WLED Dorm Light ** (December 2024)**
+## 🟢 **WLED Dorm Light ** (December 2024)
 Utilizing a SWPS @ 5V 15A, two WS2812B LED strips, and four power injections with proper fusing for safety. WLED utilized for animations. Very Bright!
 ### ▶️ **Click below to watch the demo!**
 <p align="center">
@@ -14,7 +14,7 @@ Utilizing a SWPS @ 5V 15A, two WS2812B LED strips, and four power injections wit
 ### ⚡ **Or see the wiring Diagram Below...**
 Todo: Make wiring diagram and place here. 
 
-## 🟡 **Arduino / Raspi Dorm Light** (September 2023)
+## 🟡 **Arduino / Raspberry Pi Dorm Light** (September 2023)
 Utilizes a Rasberry Pi 4b for custom made animations on a WS2812B LED strip. Communicates via Serial to an Arduino Uno controller board, with an LCD interface and buttons for animation selection. Powered via Pi's 5v rail.
 ### ▶️ **Click below to watch the demo!**
 To do: Put image here that links to youtube
@@ -22,7 +22,7 @@ To do: Put image here that links to youtube
 ##### Backup Link: https://drive.google.com/file/d/1nCgGHZAg6cg-lvnDBANqvG6rShFJDbFf/view?usp=sharing
 
 ### **⌨️ More about the code:**
-#### Raspberry pi:
+#### Raspberry Pi:
 The strip class consists of all the effects I have programmed using the neopixel library. Many of the workings of these effects take artistic or programming inspiration from the FASTLed library. 
 The SerialCom class is the raspberry pi end of the communication with the Arudino, while the controller class connects all these different classes together. (This is inspired by the Model View Controller method)
 The folder labeled "Old Stuff" contains prototype code for an HTTPs server user interface that we orginally planned to use and other code to help us learn and experiment. We decided to not use a web server interface due to dorm wifi security issues. 
