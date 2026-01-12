@@ -19,6 +19,7 @@ Utilizing a SWPS @ 5V 15A, two WS2812B LED strips, and four power injections wit
 </p>
 
 This setup includes a BTF-100-5 SWPS, rated for mains voltage as an input and 5V 20A on output. I did not use these full capabilities. stopping around 16A. 
+Automotive Fuses were utilized as a safety precaution to prevent a fire!
 Power injections at the ends of the strip are 2A while middle of the strip is 4A. This is due to the power needs in the middle are greater. 
 It's important to note this may not be the best wiring diagram circuit wise, due to the routing restricions I had to undertake while haning this up on the wall. 
 In other words, theoretically not effective, but in real life it's practical. 
