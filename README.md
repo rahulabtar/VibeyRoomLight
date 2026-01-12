@@ -9,6 +9,7 @@ Utilizing a SWPS @ 5V 15A, two WS2812B LED strips, and four power injections wit
     <img src="https://img.youtube.com/vi/jh-RSyLiC5o/hqdefault.jpg" width="600" alt="Watch on YouTube">
   </a>
 </p>
+
 ##### Backup link: https://www.youtube.com/watch?v=jh-RSyLiC5o
 
 ### ⚡ **Or see the wiring Diagram Below...**
